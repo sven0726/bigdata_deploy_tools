@@ -1,31 +1,6 @@
-hadoop/dfs
-hadoop/tmp
-hadoop/hadoop*
-hadoop/journal
-tools
-!tools/hive/conf/hive-site.xml
-storm*
-zookeeper
-spark
-hbase-0.98.16.1-hadoop2
-kafka_2.10-0.8.2.1
-
-
-
-
-
-
-
-
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+/*
+!.gitignore
+!ctrl_*
+!dist_*
+!/hadoop/etc*
+!/tools/hive/conf/hive-site.xml
