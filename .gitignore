@@ -1,6 +1,11 @@
-/*
-!.gitignore
-!ctrl_*
-!dist_*
-!/hadoop/etc*
-!/tools/hive/conf/hive-site.xml
+/hadoop/dfs
+/hadoop/tmp
+/hadoop/hadoop*
+/hadoop/journal
+/tools
+/storm*
+/zookeeper
+/spark
+/hbase-0.98.16.1-hadoop2
+/kafka_2.10-0.8.2.1
+/soft
