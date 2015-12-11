@@ -3,6 +3,7 @@ hadoop/tmp
 hadoop/hadoop*
 hadoop/journal
 tools
+!tools/hive/conf/hive-site.xml
 storm*
 zookeeper
 spark
