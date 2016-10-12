@@ -5,7 +5,6 @@
 /tools
 /storm*
 /zookeeper
-/spark
 /hbase-0.98.16.1-hadoop2
 /kafka_2.10-0.8.2.1
 /soft
